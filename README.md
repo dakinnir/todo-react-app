@@ -25,5 +25,4 @@ $ npm install
 $ npm start
 
 ```
-
-```<img width="734" alt="Screen Shot 2023-01-04 at 2 51 55 PM" src="https://user-images.githubusercontent.com/58320902/210637745-75d4147d-b9ca-4c8f-815a-d489ba0f13d7.png">```
+<img width="734" alt="Screen Shot 2023-01-04 at 2 51 55 PM" src="https://user-images.githubusercontent.com/58320902/210637745-75d4147d-b9ca-4c8f-815a-d489ba0f13d7.png">```
