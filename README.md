@@ -26,6 +26,6 @@ $ npm start
 
 ```
 
-```<img width="1438" alt="Screen Shot 2023-01-04 at 2 40 58 PM" src="https://user-images.githubusercontent.com/58320902/210637651-9de2c943-976f-4ebc-8869-a222b5ab6271.png">```
+```<img width="1438" alt="Screen Shot 2023-01-04 at 2 40 58 PM" src="https://user-images.githubusercontent.com/58320902/210637651-9de2c943-976f-4ebc-8869-a222b5ab6271.png">
 
 <img width="734" alt="Screen Shot 2023-01-04 at 2 51 55 PM" src="https://user-images.githubusercontent.com/58320902/210637745-75d4147d-b9ca-4c8f-815a-d489ba0f13d7.png">```
